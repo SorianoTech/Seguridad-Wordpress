@@ -91,7 +91,7 @@ En el fichero htpasswd añadiremos el resultado que nos de al generarlo en la si
 
 `sergio:$22310$OHs23u5hCE1sad2awAQMbePasd3Hgi7g5cfsamCfxwt0FxZK.i`
 
-![htpasswd](htpasswd.png)
+![htpasswd](htpasswd.jpg)
 
 
 ## 2.4. Eliminar el archivo install.php
